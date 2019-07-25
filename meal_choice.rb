@@ -1,3 +1,3 @@
-def meat_choice (default = meat)
-  puts meat_choice
+def meal_choice (meal = meat)
+  puts meal
 end
